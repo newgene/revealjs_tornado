@@ -1,0 +1,34 @@
+.reveal section img {
+    /*border: 0px;*/
+    background: #ffffff;
+}
+
+.reveal section h3 {
+    text-transform: none;
+}
+
+img[alt="biogps_home"] {
+    background: transparent;
+    border: 0px;
+}
+
+img[alt="biogps_datachart_2"] {
+    width: 80%;
+    height: 80%;
+}
+
+img[alt="semantic_biogps_annotator"] {
+    width: 60%;
+    height: 60%;
+}
+
+img[alt="genelist_mockup_1"] {
+    width: 60%;
+    height: 60%;
+}
+
+img[alt="genelist_mockup_2"] {
+    width: 60%;
+    height: 60%;
+}
+

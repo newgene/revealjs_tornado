@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="650.38"
+   height="420.84"
+   id="svg3696"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="biogps_plugin_stats.svg">
+  <defs
+     id="defs3698" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="450.90295"
+     inkscape:cy="103.94344"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1286"
+     inkscape:window-height="1031"
+     inkscape:window-x="2129"
+     inkscape:window-y="321"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3701">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(75.902953,-215.46561)">
+    <g
+       transform="matrix(0.04650334,0,0,0.04650334,-85.222889,-263.88396)"
+       class="com.sun.star.drawing.CustomShape"
+       id="g299">
+      <g
+         id="id11">
+        <text
+           class="TextShape"
+           id="text302">
+          <tspan
+             class="TextParagraph"
+             font-size="847px"
+             font-weight="700"
+             id="tspan304"
+             style="font-size:847px;font-weight:700;font-family:'Arial, sans-serif'">
+            <tspan
+               class="TextPosition"
+               x="2431"
+               y="12551"
+               id="tspan306">
+              <tspan
+                 id="tspan308"
+                 style="fill:#000000;stroke:none">540 plugins</tspan>
+              <tspan
+                 font-weight="400"
+                 id="tspan310"
+                 style="font-weight:400;fill:#000000;stroke:none">registered</tspan>
+            </tspan>
+          </tspan>
+          <tspan
+             class="TextParagraph"
+             font-size="847px"
+             font-weight="400"
+             id="tspan312"
+             style="font-size:847px;font-weight:400;font-family:'Arial, sans-serif'">
+            <tspan
+               class="TextPosition"
+               x="2704"
+               y="13567"
+               id="tspan314">
+              <tspan
+                 id="tspan316"
+                 style="fill:#000000;stroke:none">(&gt;300 publicly shared)</tspan>
+            </tspan>
+          </tspan>
+          <tspan
+             class="TextParagraph"
+             font-size="847px"
+             font-weight="400"
+             id="tspan318"
+             style="font-size:847px;font-weight:400;font-family:'Arial, sans-serif'">
+            <tspan
+               class="TextPosition"
+               x="3420"
+               y="15599"
+               id="tspan320">
+              <tspan
+                 id="tspan322"
+                 style="fill:#000000;stroke:none">by over</tspan>
+              <tspan
+                 font-weight="700"
+                 id="tspan324"
+                 style="font-weight:700;fill:#000000;stroke:none">120 users</tspan>
+            </tspan>
+          </tspan>
+          <tspan
+             class="TextParagraph"
+             font-size="847px"
+             font-weight="400"
+             id="tspan326"
+             style="font-size:847px;font-weight:400;font-family:'Arial, sans-serif'">
+            <tspan
+               class="TextPosition"
+               x="2234"
+               y="17631"
+               id="tspan328">
+              <tspan
+                 id="tspan330"
+                 style="fill:#000000;stroke:none">spanning</tspan>
+              <tspan
+                 font-weight="700"
+                 id="tspan332"
+                 style="font-weight:700;fill:#000000;stroke:none">280+ domains</tspan>
+            </tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
